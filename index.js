@@ -8,7 +8,7 @@ const con = mysql.createConnection({
     host:'localhost',
     user:'root',
     password:'',
-    database:'magento2_fotonicia11dec'
+    database:''
 })
 
 con.connect((err)=>{
